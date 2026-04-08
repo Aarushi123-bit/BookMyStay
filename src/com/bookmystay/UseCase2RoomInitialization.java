@@ -59,7 +59,7 @@ public class UseCase2RoomInitialization {
         int suiteAvailable = 2;
 
         // Display details
-        System.out.println("---- Room Details ----\n");
+        System.out.println("---- oom Details ----\n");
 
         single.displayDetails();
         System.out.println("Available: " + singleAvailable + "\n");
